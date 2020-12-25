@@ -1,0 +1,80 @@
+.header {
+    height: 60px;
+}
+
+.column {
+    padding-top: 10px;
+}
+
+.column1 {
+    padding-top: 12px;
+    padding-left: 23px;
+}
+
+.icon {
+    color: aliceblue;
+}
+
+.logo {
+    height: 50px;
+    width: 150px;
+    padding-top: 10px;
+}
+
+.column3 {
+    padding-top: 0px;
+    height: 56px;
+    width: 35px;
+}
+
+.bg {
+    background: url(bg.jpg) no-repeat;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+    width: 1350px;
+}
+
+.content {
+    margin-top: 135px;
+    margin-bottom: 317px;
+}
+
+.fontcolor {
+    color: cornflowerblue;
+}
+
+.Abg {
+    background: url(bg.jpg) no-repeat;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 900px;
+    width: 100%;
+}
+
+.heading{
+    margin-top: 100px;
+}
+.con{
+    margin-top: 20px;
+    margin-bottom: 317px; 
+}
+
+.navbar{
+    margin-bottom: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+    border-radius: 0%;
+}
+
+.marg{
+    margin-top: 5%;
+}
+
+.gg {
+    background: url(bg.jpg) no-repeat;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1200px;
+    width: 100%;
+}
